@@ -1,3 +1,4 @@
+arch: ppc64le
 language: julia
 julia:
     - 1.1
